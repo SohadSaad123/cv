@@ -1,0 +1,16 @@
+.header .nav-item {
+    float: right;
+}
+.col-sm-3{
+   float:inherit;
+}
+
+
+@media (max-width: 992px){
+    .header .nav-item {
+        float: left;
+    }
+
+    
+
+}
